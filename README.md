@@ -1,5 +1,5 @@
 # ExpandableRecycler
-<img height=550 width=300 src="https://github.com/premsingh8171/ExpandableRecyclerview/blob/master/app/src/main/res/drawable/one.png?raw=true" /> <img height=550 width=300 src="https://github.com/premsingh8171/ExpandableRecyclerview/blob/master/app/src/main/res/drawable/second.png?raw=true" /> <img height=550 width=300 src="https://github.com/premsingh8171/ExpandableRecyclerview/blob/master/app/src/main/res/drawable/fourth.png?raw=true" /> <img height=550 width=300 src="https://github.com/premsingh8171/ExpandableRecyclerview/blob/master/app/src/main/res/drawable/five.png?raw=true" />
+<img height=550 width=300 alianment=center src="https://github.com/premsingh8171/ExpandableRecyclerview/blob/master/app/src/main/res/drawable/one.png?raw=true" /> <img height=550 width=300 src="https://github.com/premsingh8171/ExpandableRecyclerview/blob/master/app/src/main/res/drawable/second.png?raw=true" /> <img height=550 width=300 src="https://github.com/premsingh8171/ExpandableRecyclerview/blob/master/app/src/main/res/drawable/fourth.png?raw=true" /> <img height=550 width=300 src="https://github.com/premsingh8171/ExpandableRecyclerview/blob/master/app/src/main/res/drawable/five.png?raw=true" />
 
 
 
